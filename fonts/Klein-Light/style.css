@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Klein';
+    src: local('Klein Light'), local('Klein-Light'),
+        url('Klein-Light.woff2') format('woff2'),
+        url('Klein-Light.woff') format('woff'),
+        url('Klein-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
